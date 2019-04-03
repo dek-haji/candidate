@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: brown;
+    text-size-adjust: 20%
+}
+h2{
+    color: brown
+}
+#candidate{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+img{
+    border: 1px solid black;
+    height: 200px;
+}
+#commitees{
+    display: flex;
+    justify-content: flex-start
+}
+#links{
+    text-justify: inherit 
+}
